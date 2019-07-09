@@ -2,4 +2,4 @@
 
 ## 190713
 -  Mane 200words
--  Chaos 400words
+-  Chaos 500words
